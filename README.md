@@ -1,2 +1,4 @@
 # SQL-Data-Analyst-Track
-This repository contains SQL code written during my journey through the Data Analyst with SQL track on DataCamp. Explore various projects, exercises, and challenges that demonstrate my proficiency in SQL and database management. From querying databases to analyzing data and generating insights, dive into the world of data analysis with SQL.
+
+
+![image](https://github.com/AbdallahNasserr/SQL-Data-Analyst-Track/assets/137197588/e554e7ed-30bb-4f6a-96fa-227f297f3579)
